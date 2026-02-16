@@ -206,4 +206,10 @@ Higher stereo percent = wider voice
 Credits to : https://github.com/sweetbbak/Neural-Amy-TTS
 For providing the neural amy model used in this project 
 Credits to : https://youtu.be/DFQN5P9HCP8?si=DvkYY425Sn8YItzc
+
 For giving the exact settings used which implemented into an automatic version
+please note to run this you will need llama cpp in the folder that
+the program expects it to be , you will also need a gguf file that can be any
+ai model of your choice , run.py is for generating text that sounds
+like the PDA and dosent include any AI  , you can use this when trying to generate voicelines
+, the AI functionality is in final.py
