@@ -48,21 +48,6 @@ You also need:
 
 ---
 
-# 📁 Project Structure
-
-```
-project/
-│
-├── amy.onnx
-├── amy.onnx.json
-├── llama-server.exe
-├── Model.gguf
-├── main.py
-└── README.md
-```
-
----
-
 # 🚀 How It Works
 
 ## 1️⃣ LLaMA Server
@@ -213,4 +198,5 @@ the program expects it to be , you will also need a gguf file that can be any
 ai model of your choice , run.py is for generating text that sounds
 like the PDA and dosent include any AI  , you can use this when trying to generate voicelines
 , the AI functionality is in final.py
+
 
